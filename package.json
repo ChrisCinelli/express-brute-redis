@@ -22,8 +22,9 @@
     "async": "~0.2.9"
   },
   "dependencies": {
-    "underscore": "~1.5.1",
-    "redis": "~0.10.0",
-    "express-brute": "~0.4.2"
+    "express-brute": "~1.0.0",
+    "redis": "~2.7.0",
+    "redisscan": "~2.0.0",
+    "underscore": "~1.5.1"
   }
 }
